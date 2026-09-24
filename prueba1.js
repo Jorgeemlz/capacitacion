@@ -5,4 +5,10 @@ let persona = ['Jorge Emilio'];
     return a + b
  }
 
- console.log(suma(2,4));
+ console.log(suma(2,4)); 
+
+ function texto(string){
+    return string.toUpperCase();
+ }
+
+ console.log(texto('yorchito'));
