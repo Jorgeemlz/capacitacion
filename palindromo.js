@@ -15,5 +15,5 @@ function palindromo(palabra){
 
 }
 
-console.log(palindromo('Ala'));
+console.log(palindromo('Ama'));
 console.log(palindromo('tinkyWinky'));
